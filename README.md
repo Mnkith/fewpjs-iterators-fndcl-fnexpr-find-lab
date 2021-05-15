@@ -1,6 +1,6 @@
 # Iterator Drill: Find
 
-## Learning Goals
+## Learning Goals 
 
 * Demonstrate `find()`
 * Use `find()` to isolate a specific result
